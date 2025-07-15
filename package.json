@@ -1,0 +1,23 @@
+{
+  "name": "beta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pra-chi-prpg/hashedbit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pra-chi-prpg/hashedbit/issues"
+  },
+  "homepage": "https://github.com/Pra-chi-prpg/hashedbit#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
